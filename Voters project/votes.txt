@@ -1,0 +1,19 @@
+page144
+RULE:
+List qualifies if it got 40% men 3adad el mrach7in el matloubin: 40% de 8 =3.2=4 ****** 40%de5=2
+RULE:
+7asel=all voters who voted in da2ira / number of seats: 90000/6=15000            ****** 7asel= total # of votes / # of seats
+read page 57 w nzoul, exemple 4 laweyi7? 30 30 20 10 = 90, remove the 10 cz less than 15, so new 7asel = 30 30 20 = 80, 80/6=13.33
+Number of seats per list
+1st list: 30/80*6=2.25=2	numberofvotesinthelist/totalvotes*numberofseats
+2nd list: 30/80*6=2.25=2
+3rd list: 20/80*6=1.5=1
+1 left alex? for the bigger decimal part p.58 4-
+
+total list 1 = list1 extra vote + list1 candidate votes
+7asil= 150000/5=30000
+el ley7a less than 30000 doesnt qualify, if there is one less remove it and reconsider a new 7asil
+list 3 ra7 ten2em
+
+percent pref vote: percentage sot el tafdile of total votes bi aleb el da2ira kella: tony 20000/(total votes el da2ira el soughra) 
+

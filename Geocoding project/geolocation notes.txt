@@ -1,0 +1,27 @@
+﻿conda  --version
+
+Install Google Maps API to Anaconda
+install -c conda-forge googlemaps
+
+https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyC2ZU5N06KKcSaIML04djtCk8jWmLYe-jI
+Google API key: AIzaSyC2ZU5N06KKcSaIML04djtCk8jWmLYe-jI
+
+function: getlocation bto2ra string w bet redd dictionary
+class: geolocation
+
+CompleteDF + BaldaAdj3.csv
+Incomplete2.csv
+
+xxxxxxxxx
+
+الزويتيني الدكرمان المسالخية الكنان الكشك مكسر العبد
+
+jounieh جونيه: غادير صربا	حارة صخر
+tell 3abes
+kbayet
+11 18 notepad font
+xxxxxxxxx
+		حي الزهراء		حي الست		حي الصلح		حي العباسية
+	حي العسيرة		حي عز الدين
+		الريش 		البرانيه 		البرباره    غفره
+xxxxx
